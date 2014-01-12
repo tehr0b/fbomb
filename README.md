@@ -1,6 +1,8 @@
 fbomb
 =====
 
-Usage: fbomb <file> <time increment> <chart title>
+Usage: fbomb [file] [time increment] [chart title]
 
-Creates histograms showing the distributions of fbomb's in movie subtitles
+Requires that the file be in .srt format
+
+Creates histograms showing the distributions of fbombs in movie subtitles
